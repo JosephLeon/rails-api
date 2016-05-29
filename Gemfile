@@ -5,6 +5,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'active_model_serializers'
+gem 'rubocop', '~> 0.40.0', require: false
 
 group :development, :test do
   gem 'byebug'
